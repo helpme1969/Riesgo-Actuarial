@@ -1,5 +1,5 @@
 # Riesgo-Actuarial
-Se neceista script de este problema, leguaje Rstudio
+Se necesita script de este problema, leguaje Rstudio
 ' So the problem goes as follows:
 
 "Suppose that the different policyholders of a casualty insurance company generate claims according to independent Poisson processes with a common rate λ, and that each claim amount has distribution F. Suppose also that new customers sign up according to a Poisson process with rate ν, and that each existing policyholder remains with the company for an exponentially distributed time with rate μ. Finally, suppose that each policyholder pays the insurance firm at a fixed rate c per unit time. Starting with n0 customers and initial capital a0≥0, we are interested in using simulation to estimate the probability that the firm’s capital is always nonnegative at all times up to time T ."
